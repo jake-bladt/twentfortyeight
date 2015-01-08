@@ -1,3 +1,11 @@
+sudo apt-get update
+
 Install on Vagrant Box:
   make
-  
+  python-software-properties
+  TypeScript
+
+Notes on installing TypeScript:
+$ sudo add-apt-repository ppa:chris-lea/node.js
+$ sudo apt-get install npm
+$ sudo npm install -g typescript
