@@ -1,0 +1,3 @@
+Install on Vagrant Box:
+  make
+  
