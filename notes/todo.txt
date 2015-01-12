@@ -6,6 +6,7 @@ Install on Vagrant Box:
   TypeScript
 
 Notes on installing TypeScript:
+(This doesn't work on precise32 or precise64.)
 $ sudo add-apt-repository ppa:chris-lea/node.js
 $ sudo apt-get install npm
 $ sudo npm install -g typescript
